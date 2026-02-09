@@ -410,3 +410,6 @@ Failed to fetch headers for https://www.justice.gov/epstein/files/DataSet%209/EF
 Failed to fetch headers for https://www.justice.gov/epstein/files/DataSet%209/EFTA00680712.pdf: 404
 Failed to fetch headers for https://www.justice.gov/epstein/files/DataSet%209/EFTA00682743.pdf: 404
 Failed to fetch headers for https://www.justice.gov/epstein/files/DataSet%209/EFTA00682951.pdf: 404
+Failed to fetch headers for https://www.justice.gov/epstein/files/DataSet%209/EFTA00686419.pdf: 404
+Failed to fetch headers for https://www.justice.gov/epstein/files/DataSet%209/EFTA00688212.pdf: 404
+Failed to fetch headers for https://www.justice.gov/epstein/files/DataSet%209/EFTA00688269.pdf: 404
