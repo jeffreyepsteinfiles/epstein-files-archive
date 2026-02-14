@@ -1,0 +1,356 @@
+{
+  "hits": {
+    "total": {
+      "value": 3789,
+      "relation": "eq"
+    },
+    "max_score": 19.6206,
+    "hits": [
+      {
+        "_source": {
+          "documentId": "d45058cf",
+          "chunkIndex": 0,
+          "totalChunks": 1,
+          "charStart": 0,
+          "charEnd": 31,
+          "chunkSize": 31,
+          "isChunked": false,
+          "startPage": 1,
+          "endPage": 1,
+          "ORIGIN_FILE_NAME": "EFTA00024813.pdf",
+          "ORIGIN_FILE_URI": "https://www.justice.gov/epstein/files/DataSet 8/EFTA00024813.pdf",
+          "bucket": "amazon-s3x-sync",
+          "key": "DataSet 8/EFTA00024813.pdf",
+          "contentType": "application/pdf",
+          "fileSize": 2433,
+          "totalWords": 4,
+          "totalCharacters": 31,
+          "processedAt": "2026-01-21T01:37:27Z",
+          "indexedAt": "2026-01-21T01:37:27Z",
+          "source": "document-indexing-pipeline"
+        },
+        "fields": {
+          "ORIGIN_FILE_NAME": [
+            "EFTA00024813.pdf"
+          ]
+        },
+        "highlight": {
+          "content": [
+            "\u003Cem\u003ENo\u003C/em\u003E \u003Cem\u003EImages\u003C/em\u003E \u003Cem\u003EProduced\u003C/em\u003E\nEFTA00024813"
+          ]
+        }
+      },
+      {
+        "_source": {
+          "documentId": "5a351329",
+          "chunkIndex": 0,
+          "totalChunks": 1,
+          "charStart": 0,
+          "charEnd": 31,
+          "chunkSize": 31,
+          "isChunked": false,
+          "startPage": 1,
+          "endPage": 1,
+          "ORIGIN_FILE_NAME": "EFTA00029996.pdf",
+          "ORIGIN_FILE_URI": "https://www.justice.gov/epstein/files/DataSet 8/EFTA00029996.pdf",
+          "bucket": "amazon-s3x-sync",
+          "key": "DataSet 8/EFTA00029996.pdf",
+          "contentType": "application/pdf",
+          "fileSize": 2433,
+          "totalWords": 4,
+          "totalCharacters": 31,
+          "processedAt": "2026-01-21T01:38:21Z",
+          "indexedAt": "2026-01-21T01:38:21Z",
+          "source": "document-indexing-pipeline"
+        },
+        "fields": {
+          "ORIGIN_FILE_NAME": [
+            "EFTA00029996.pdf"
+          ]
+        },
+        "highlight": {
+          "content": [
+            "\u003Cem\u003ENo\u003C/em\u003E \u003Cem\u003EImages\u003C/em\u003E \u003Cem\u003EProduced\u003C/em\u003E\nEFTA00029996"
+          ]
+        }
+      },
+      {
+        "_source": {
+          "documentId": "ad3e8c2e",
+          "chunkIndex": 0,
+          "totalChunks": 1,
+          "charStart": 0,
+          "charEnd": 31,
+          "chunkSize": 31,
+          "isChunked": false,
+          "startPage": 1,
+          "endPage": 1,
+          "ORIGIN_FILE_NAME": "EFTA00033012.pdf",
+          "ORIGIN_FILE_URI": "https://www.justice.gov/epstein/files/DataSet 8/EFTA00033012.pdf",
+          "bucket": "amazon-s3x-sync",
+          "key": "DataSet 8/EFTA00033012.pdf",
+          "contentType": "application/pdf",
+          "fileSize": 2433,
+          "totalWords": 4,
+          "totalCharacters": 31,
+          "processedAt": "2026-01-21T01:38:47Z",
+          "indexedAt": "2026-01-21T01:38:47Z",
+          "source": "document-indexing-pipeline"
+        },
+        "fields": {
+          "ORIGIN_FILE_NAME": [
+            "EFTA00033012.pdf"
+          ]
+        },
+        "highlight": {
+          "content": [
+            "\u003Cem\u003ENo\u003C/em\u003E \u003Cem\u003EImages\u003C/em\u003E \u003Cem\u003EProduced\u003C/em\u003E\nEFTA00033012"
+          ]
+        }
+      },
+      {
+        "_source": {
+          "documentId": "e9730164",
+          "chunkIndex": 0,
+          "totalChunks": 1,
+          "charStart": 0,
+          "charEnd": 31,
+          "chunkSize": 31,
+          "isChunked": false,
+          "startPage": 1,
+          "endPage": 1,
+          "ORIGIN_FILE_NAME": "EFTA00033048.pdf",
+          "ORIGIN_FILE_URI": "https://www.justice.gov/epstein/files/DataSet 8/EFTA00033048.pdf",
+          "bucket": "amazon-s3x-sync",
+          "key": "DataSet 8/EFTA00033048.pdf",
+          "contentType": "application/pdf",
+          "fileSize": 2433,
+          "totalWords": 4,
+          "totalCharacters": 31,
+          "processedAt": "2026-01-21T01:38:49Z",
+          "indexedAt": "2026-01-21T01:38:49Z",
+          "source": "document-indexing-pipeline"
+        },
+        "fields": {
+          "ORIGIN_FILE_NAME": [
+            "EFTA00033048.pdf"
+          ]
+        },
+        "highlight": {
+          "content": [
+            "\u003Cem\u003ENo\u003C/em\u003E \u003Cem\u003EImages\u003C/em\u003E \u003Cem\u003EProduced\u003C/em\u003E\nEFTA00033048"
+          ]
+        }
+      },
+      {
+        "_source": {
+          "documentId": "4942d5ae",
+          "chunkIndex": 0,
+          "totalChunks": 1,
+          "charStart": 0,
+          "charEnd": 31,
+          "chunkSize": 31,
+          "isChunked": false,
+          "startPage": 1,
+          "endPage": 1,
+          "ORIGIN_FILE_NAME": "EFTA00033113.pdf",
+          "ORIGIN_FILE_URI": "https://www.justice.gov/epstein/files/DataSet 8/EFTA00033113.pdf",
+          "bucket": "amazon-s3x-sync",
+          "key": "DataSet 8/EFTA00033113.pdf",
+          "contentType": "application/pdf",
+          "fileSize": 2433,
+          "totalWords": 4,
+          "totalCharacters": 31,
+          "processedAt": "2026-01-21T01:38:51Z",
+          "indexedAt": "2026-01-21T01:38:51Z",
+          "source": "document-indexing-pipeline"
+        },
+        "fields": {
+          "ORIGIN_FILE_NAME": [
+            "EFTA00033113.pdf"
+          ]
+        },
+        "highlight": {
+          "content": [
+            "\u003Cem\u003ENo\u003C/em\u003E \u003Cem\u003EImages\u003C/em\u003E \u003Cem\u003EProduced\u003C/em\u003E\nEFTA00033113"
+          ]
+        }
+      },
+      {
+        "_source": {
+          "documentId": "6e5a157e",
+          "chunkIndex": 0,
+          "totalChunks": 1,
+          "charStart": 0,
+          "charEnd": 31,
+          "chunkSize": 31,
+          "isChunked": false,
+          "startPage": 1,
+          "endPage": 1,
+          "ORIGIN_FILE_NAME": "EFTA00033116.pdf",
+          "ORIGIN_FILE_URI": "https://www.justice.gov/epstein/files/DataSet 8/EFTA00033116.pdf",
+          "bucket": "amazon-s3x-sync",
+          "key": "DataSet 8/EFTA00033116.pdf",
+          "contentType": "application/pdf",
+          "fileSize": 2433,
+          "totalWords": 4,
+          "totalCharacters": 31,
+          "processedAt": "2026-01-21T01:38:52Z",
+          "indexedAt": "2026-01-21T01:38:52Z",
+          "source": "document-indexing-pipeline"
+        },
+        "fields": {
+          "ORIGIN_FILE_NAME": [
+            "EFTA00033116.pdf"
+          ]
+        },
+        "highlight": {
+          "content": [
+            "\u003Cem\u003ENo\u003C/em\u003E \u003Cem\u003EImages\u003C/em\u003E \u003Cem\u003EProduced\u003C/em\u003E\nEFTA00033116"
+          ]
+        }
+      },
+      {
+        "_source": {
+          "documentId": "8bd43a32",
+          "chunkIndex": 0,
+          "totalChunks": 1,
+          "charStart": 0,
+          "charEnd": 31,
+          "chunkSize": 31,
+          "isChunked": false,
+          "startPage": 1,
+          "endPage": 1,
+          "ORIGIN_FILE_NAME": "EFTA00033046.pdf",
+          "ORIGIN_FILE_URI": "https://www.justice.gov/epstein/files/DataSet 8/EFTA00033046.pdf",
+          "bucket": "amazon-s3x-sync",
+          "key": "DataSet 8/EFTA00033046.pdf",
+          "contentType": "application/pdf",
+          "fileSize": 2433,
+          "totalWords": 4,
+          "totalCharacters": 31,
+          "processedAt": "2026-01-21T01:38:52Z",
+          "indexedAt": "2026-01-21T01:38:52Z",
+          "source": "document-indexing-pipeline"
+        },
+        "fields": {
+          "ORIGIN_FILE_NAME": [
+            "EFTA00033046.pdf"
+          ]
+        },
+        "highlight": {
+          "content": [
+            "\u003Cem\u003ENo\u003C/em\u003E \u003Cem\u003EImages\u003C/em\u003E \u003Cem\u003EProduced\u003C/em\u003E\nEFTA00033046"
+          ]
+        }
+      },
+      {
+        "_source": {
+          "documentId": "a6585fbb",
+          "chunkIndex": 0,
+          "totalChunks": 1,
+          "charStart": 0,
+          "charEnd": 31,
+          "chunkSize": 31,
+          "isChunked": false,
+          "startPage": 1,
+          "endPage": 1,
+          "ORIGIN_FILE_NAME": "EFTA00033114.pdf",
+          "ORIGIN_FILE_URI": "https://www.justice.gov/epstein/files/DataSet 8/EFTA00033114.pdf",
+          "bucket": "amazon-s3x-sync",
+          "key": "DataSet 8/EFTA00033114.pdf",
+          "contentType": "application/pdf",
+          "fileSize": 2433,
+          "totalWords": 4,
+          "totalCharacters": 31,
+          "processedAt": "2026-01-21T01:38:52Z",
+          "indexedAt": "2026-01-21T01:38:52Z",
+          "source": "document-indexing-pipeline"
+        },
+        "fields": {
+          "ORIGIN_FILE_NAME": [
+            "EFTA00033114.pdf"
+          ]
+        },
+        "highlight": {
+          "content": [
+            "\u003Cem\u003ENo\u003C/em\u003E \u003Cem\u003EImages\u003C/em\u003E \u003Cem\u003EProduced\u003C/em\u003E\nEFTA00033114"
+          ]
+        }
+      },
+      {
+        "_source": {
+          "documentId": "a7a51452",
+          "chunkIndex": 0,
+          "totalChunks": 1,
+          "charStart": 0,
+          "charEnd": 31,
+          "chunkSize": 31,
+          "isChunked": false,
+          "startPage": 1,
+          "endPage": 1,
+          "ORIGIN_FILE_NAME": "EFTA00033130.pdf",
+          "ORIGIN_FILE_URI": "https://www.justice.gov/epstein/files/DataSet 8/EFTA00033130.pdf",
+          "bucket": "amazon-s3x-sync",
+          "key": "DataSet 8/EFTA00033130.pdf",
+          "contentType": "application/pdf",
+          "fileSize": 2433,
+          "totalWords": 4,
+          "totalCharacters": 31,
+          "processedAt": "2026-01-21T01:38:53Z",
+          "indexedAt": "2026-01-21T01:38:53Z",
+          "source": "document-indexing-pipeline"
+        },
+        "fields": {
+          "ORIGIN_FILE_NAME": [
+            "EFTA00033130.pdf"
+          ]
+        },
+        "highlight": {
+          "content": [
+            "\u003Cem\u003ENo\u003C/em\u003E \u003Cem\u003EImages\u003C/em\u003E \u003Cem\u003EProduced\u003C/em\u003E\nEFTA00033130"
+          ]
+        }
+      },
+      {
+        "_source": {
+          "documentId": "c09f8a09",
+          "chunkIndex": 0,
+          "totalChunks": 1,
+          "charStart": 0,
+          "charEnd": 31,
+          "chunkSize": 31,
+          "isChunked": false,
+          "startPage": 1,
+          "endPage": 1,
+          "ORIGIN_FILE_NAME": "EFTA00033115.pdf",
+          "ORIGIN_FILE_URI": "https://www.justice.gov/epstein/files/DataSet 8/EFTA00033115.pdf",
+          "bucket": "amazon-s3x-sync",
+          "key": "DataSet 8/EFTA00033115.pdf",
+          "contentType": "application/pdf",
+          "fileSize": 2433,
+          "totalWords": 4,
+          "totalCharacters": 31,
+          "processedAt": "2026-01-21T01:38:53Z",
+          "indexedAt": "2026-01-21T01:38:53Z",
+          "source": "document-indexing-pipeline"
+        },
+        "fields": {
+          "ORIGIN_FILE_NAME": [
+            "EFTA00033115.pdf"
+          ]
+        },
+        "highlight": {
+          "content": [
+            "\u003Cem\u003ENo\u003C/em\u003E \u003Cem\u003EImages\u003C/em\u003E \u003Cem\u003EProduced\u003C/em\u003E\nEFTA00033115"
+          ]
+        }
+      }
+    ]
+  },
+  "aggregations": {
+    "unique_count": {
+      "value": 3789
+    }
+  }
+}
