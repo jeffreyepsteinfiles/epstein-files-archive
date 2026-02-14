@@ -5,7 +5,7 @@ Alt-Svc: h3=":443"; ma=93600
 Cache-Control: max-age=0, no-cache, no-store
 Content-Length: 533724
 Content-Type: application/pdf
-Date: N/A
+Date: Sat, 14 Feb 2026 1:24:55 EST
 Etag: "CA8AD5DEBCA935FDAB5E8A4FD86AD931"
 Expires: Sun, 08 Feb 2026 08:49:55 GMT
 Last-Modified: Fri, 19 Dec 2025 21:24:51 GMT
