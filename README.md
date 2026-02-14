@@ -21,6 +21,11 @@ This Python script fetches metadata (HTTP headers) for files from the U.S. Depar
 ![](https://komarev.com/ghpvc/?username=beak2825-epstein-files-archive&label=REPO+VIEWS)
 
 
+# Major Notable Things
+ALL DataSet ZIP Files have been removed from the DOJ website, not sure when but between (Feb 9-13)  
+
+
+
 # Minor Notable Things
 
 They are deleting/redacting mentions of "Trump" see https://github.com/beak2825/epstein-files-archive/commit/ae6e32bed1d135dcb3c14e84795cad1faf8ef5f5 and https://github.com/beak2825/epstein-files-archive/commit/71f55ba47d72d428fbdbb7f5c8e47e830dd22688  
