@@ -34,13 +34,13 @@ Table of Data Sets and known deleted/changed files (we know which ones were dele
 | 9  | 401 Changed, 866 [Deleted](https://raw.githubusercontent.com/beak2825/epstein-files-archive/refs/heads/main/DataSet9_Deleted.txt)  |
 | 10  | 262 Counting Changed, 6 [Deleted](https://raw.githubusercontent.com/beak2825/epstein-files-archive/refs/heads/main/DataSet10_Deleted.txt)  |
 | 11  | 92 Changed  |
-| 12  | 2 [Changed](https://raw.githubusercontent.com/beak2825/epstein-files-archive/refs/heads/main/DataSet12_Changed.txt)  |
+| 12  | 2 [New](https://raw.githubusercontent.com/beak2825/epstein-files-archive/refs/heads/main/DataSet12_Changed.txt)  |
 | 13-23 | Unreleased  |
 
 
 # Major Notable Things
 ALL DataSet ZIP Files have been removed from the DOJ website, not sure when but between (Feb 9-13)  
-Data Set 10 is actively being modified with the most recent change being ![EFTA01286686 2/12/26 9 AM EST](https://justice.gov/epstein/files/DataSet%2010/EFTA01286686.pdf)
+Data Set 10 is actively being modified with the most recent change being [EFTA01286686 2/12/26 9 AM EST](https://justice.gov/epstein/files/DataSet%2010/EFTA01286686.pdf)
 
 
 # Minor Notable Things
