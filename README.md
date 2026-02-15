@@ -38,6 +38,9 @@ Table of Data Sets and known deleted/changed files (we know which ones were dele
 | 13-23 | Unreleased  |
 
 
+It would be appreciated if people ran 2fetcher.py and did pull requests so we can  
+speed up this project.  
+
 # Major Notable Things
 ALL DataSet ZIP Files have been removed from the DOJ website, not sure when but between (Feb 9-13)  
 Data Set 10 is actively being modified with the most recent change being [EFTA01286686 2/12/26 9 AM EST](https://justice.gov/epstein/files/DataSet%2010/EFTA01286686.pdf)
