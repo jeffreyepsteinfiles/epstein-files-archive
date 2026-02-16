@@ -68,8 +68,15 @@ They scribbled then fully redacted a screenshot, and possible Epstein's facebook
 
 More soon.
 
-## Set file timestamps from Last-Modified headers
+# Additions To ADD  
+I really want to add something that lets you scrape even faster because there is just millions of files to go through, so using proxies sounds like a good idea, or someone can make a pull request if they have better ideas.  
 
+I don't know but does anyone think I should make a telegram channel or discord server on this repo or just communites for the files in general?  Point me in the right direction.
+
+
+## Important, Set file timestamps from Last-Modified headers
+
+This is a easy thing you can do right now with your folder, open set_mtime_from_last_modified.py.  
 A helper script `set_mtime_from_last_modified.py` is included in the repository. It scans all `.txt` files under the `EFTA/` folder (recursively), extracts the `Last-Modified` header inside each file, converts it to Eastern time, and sets the filesystem modification time (mtime) to that value.
 
 Quick usage:
