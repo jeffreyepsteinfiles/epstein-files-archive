@@ -67,3 +67,24 @@ On Data Set 9 it starts to break the pagination, and possibly makes files unlist
 They scribbled then fully redacted a screenshot, and possible Epstein's facebook profile picture is visible EFTA00037168  
 
 More soon.
+
+## Set file timestamps from Last-Modified headers
+
+A helper script `set_mtime_from_last_modified.py` is included in the repository. It scans all `.txt` files under the `EFTA/` folder (recursively), extracts the `Last-Modified` header inside each file, converts it to Eastern time, and sets the filesystem modification time (mtime) to that value.
+
+Quick usage:
+
+- Preview what would change without modifying files:
+
+  `python set_mtime_from_last_modified.py --dry-run`
+
+- Apply changes (updates file mtimes):
+
+  `python set_mtime_from_last_modified.py`
+
+Options:
+- `--root` / `-r` : root folder to scan (default: `EFTA`)
+- `--ext` : file extension to search for (default: `.txt`)
+- `--use-est-wallclock` : interpret the Eastern time as a wallclock and set the file mtime so the file displays that Eastern local time on the current machine
+
+This is useful because Git does not preserve the original Last-Modified timestamps from the DOJ responses; the script sets the local file timestamps to match the stored headers.
