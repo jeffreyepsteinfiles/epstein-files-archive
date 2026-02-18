@@ -9,7 +9,10 @@
 </div>
 
 <img width="1200" height="500" alt="redacting" src="https://github.com/user-attachments/assets/6ff30242-0b17-490a-a5ab-790e77b79c04" />  
-Old VS New, see [redactions.MD](https://github.com/beak2825/epstein-files-archive/blob/main/REDACTIONS.md)
+
+
+
+Old VS New, see [old VS new redactions](https://github.com/beak2825/epstein-files-archive/blob/main/REDACTIONS.md)  
 
 # epstein-files-archive
 If you saw evidence of files being deleted or modified in the Epstein Files, you probably want to see how many were modified/deleted, or a list of the deleted or modified ones.
